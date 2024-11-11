@@ -19,15 +19,19 @@ Before running the bot, make sure you have the following installed:
 
 ## Setup
 Clone the repository:
+
 ``` git clone https://github.com/your-username/cachyos-wiki-bot.git cd cachyos-wiki-bot ```
 
 Install the dependencies:
+
 ``` npm install ```
 
 Create a .env file with the following content:
+
 ```DISCORD_TOKEN=TOKEN```
 
 Run the bot:
+
 ``` npm start ```
 
 Your bot should now be online and ready to use in your Discord server.
