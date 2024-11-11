@@ -1,0 +1,20 @@
+{
+  "name": "cachy-rtfw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ly-sec",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord-api-types": "^0.37.104",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.7.1"
+  }
+}
