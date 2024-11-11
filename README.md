@@ -20,7 +20,7 @@ Before running the bot, make sure you have the following installed:
 ## Setup
 Clone the repository:
 
-``` git clone https://github.com/your-username/cachyos-wiki-bot.git cd cachyos-wiki-bot ```
+``` git clone https://github.com/Ly-sec/Cachy-RTFW.git cd Cachy-RTFW ```
 
 Install the dependencies:
 
