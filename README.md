@@ -1,7 +1,8 @@
 # Cachy-RTFW Bot
 
 A Discord bot for searching the CachyOS Wiki directly from Discord. This bot allows users to search for articles from the wiki and displays the search results in an embed.
-Features
+
+## Features
 
     Slash command /wiki to search the CachyOS Wiki.
     Command responses are displayed as embeddable messages.
