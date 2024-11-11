@@ -47,7 +47,6 @@ Parameters:
 ## File Structure
 
     index.js: Main entry point for the bot, starts the client and handles interactions.
-    config.json: Configuration file containing your Discord bot token.
     handlers/commandHandler.js: Handles dynamic loading of commands.
     commands/: Folder containing individual command files like wiki.js, ping.js, etc.
     utils/embedUtils.js: Contains utilities for creating embed messages.
